@@ -6,4 +6,4 @@ import pdfquery
 pdf = pdfquery.PDFQuery('Resume-MuhammadHaikalNasrizal.pdf')
 pdf.load()
 
-pdf.tree.write("haikal.xml",pretty_print=True)
+
